@@ -16,7 +16,7 @@
       "presenterURI": "main.js",
       "behaviorURI": "sample-sidebar.worker.js",
       "translationPath": "assets/i18n/",
-      "componentTagName": "sample-sidebar",
+      "componentTagName": "urcaps-r-us-simple-multi-panel-sample-sidebar",
       "size": "large"
     }
   ]
