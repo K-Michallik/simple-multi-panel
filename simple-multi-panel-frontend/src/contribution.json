@@ -1,0 +1,23 @@
+{
+  "applicationNodes": [
+    {
+      "translationPath": "assets/i18n/",
+      "behaviorURI": "simple-multi-panel.worker.js",
+      "presenterURI": "main.js",
+      "componentTagName": "urcaps-r-us-simple-multi-panel-simple-multi-panel"
+    }
+  ],
+  "programNodes": [],
+  "smartSkills": [],
+  "sidebar": [
+    {
+      "name": "sample-sidebar",
+      "iconURI": "assets/icons/multi-panel.svg",
+      "presenterURI": "main.js",
+      "behaviorURI": "sample-sidebar.worker.js",
+      "translationPath": "assets/i18n/",
+      "componentTagName": "sample-sidebar",
+      "size": "large"
+    }
+  ]
+}

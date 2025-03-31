@@ -1,0 +1,13 @@
+metadata:
+  vendorID: "urcaps-r-us"
+  urcapID: "simple-multi-panel"
+  vendorName: "urcaps-r-us"
+  urcapName: "simple-multi-panel"
+  version: 1.0.0
+artifacts:
+  webArchives:
+  - id: "simple-multi-panel-frontend"
+    folder: "simple-multi-panel-frontend"
+  containers:
+  - id: "simple-multi-panel-backend"
+    image: "simple-multi-panel-backend:latest"

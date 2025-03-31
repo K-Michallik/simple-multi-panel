@@ -1,0 +1,10 @@
+{
+  "application": {
+    "nodes": {
+      "urcaps-r-us-simple-multi-panel-simple-multi-panel": {
+        "title": "Simple Multi Panel",
+        "supportiveText": "Simple Multi Panel - Supportive Text"
+      }
+    }
+  }
+}
