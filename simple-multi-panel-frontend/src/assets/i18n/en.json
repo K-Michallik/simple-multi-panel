@@ -6,5 +6,10 @@
         "supportiveText": "Simple Multi Panel - Supportive Text"
       }
     }
-  }
+  },
+    "sidebar-items": {
+        "sample-sidebar": {
+            "title": "Sample Sidebar"
+        }
+    }
 }
