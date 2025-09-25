@@ -1,22 +1,3 @@
-# Angular contribution
+# Deprecated
 
-This project is a template example of a URCap Contribution containing a Docker backend and a Web frontend
-
-### Installation
-To install the contribution type:
-
-`$ npm install`
-
-### Build
-To build the contribution type:
-
-`$ npm run build`
-
-### Deploy
-To deploy the contribution to the simulator type:
-
-`$ npm run install-urcap`
-
-## Further help
-
-Get more help from the included SDK documentation.
+This sample is deprecated as a more fully fleshed-out version exists inside the Polyscope X SDK. Please see the `global-variables-sidebar-item` to understand how to contribute a Sidebar item.
